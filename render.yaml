@@ -14,7 +14,7 @@ services:
         value: 10000
 
   # Frontend (Static Site) - CORRECT TYPE IS "static_site"
-  - type: static_site
+  - type: static
     name: dhulbeeg-frontend
     rootDirectory: frontend
     buildCommand: | 
