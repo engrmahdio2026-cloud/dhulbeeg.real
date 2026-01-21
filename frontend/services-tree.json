@@ -1,0 +1,176 @@
+{
+    "company": {
+        "name": "DhulBeeg Real Estate & Law",
+        "founded": "2010",
+        "location": "Hargeisa, Somaliland",
+        "registration": "Registered Real Estate Agency No. REA-0452",
+        "legalRegistration": "Somaliland Bar Association Member SBA-7890",
+        "employees": "25+",
+        "clientsServed": "750+",
+        "propertiesSold": "350+",
+        "legalCases": "500+",
+        "satisfactionRate": "98%"
+    },
+    "mission": {
+        "title": "Our Mission",
+        "content": "To provide comprehensive property solutions with full legal protection, making real estate transactions secure, transparent, and stress-free for our clients in Hargeisa while contributing to Somaliland's economic development.",
+        "icon": "bullseye",
+        "keyPoints": [
+            "Integrated real estate and legal services",
+            "Client-centric approach",
+            "Transparent operations",
+            "Contribution to Somaliland development",
+            "Excellence in service delivery"
+        ]
+    },
+    "vision": {
+        "title": "Our Vision",
+        "content": "To become the most trusted integrated real estate and legal service provider in Somaliland, setting new standards for excellence, transparency, and client satisfaction in Hargeisa's property market.",
+        "icon": "eye",
+        "keyPoints": [
+            "Market leadership in integrated services",
+            "Setting industry standards",
+            "National recognition",
+            "Expansion across Somaliland",
+            "International partnerships"
+        ]
+    },
+    "values": [{
+            "title": "Integrity",
+            "content": "We conduct all business with honesty, transparency, and ethical standards. Our word is our bond.",
+            "icon": "handshake",
+            "examples": [
+                "Transparent pricing",
+                "Honest property descriptions",
+                "Ethical negotiations",
+                "Confidentiality maintained"
+            ]
+        },
+        {
+            "title": "Excellence",
+            "content": "We strive for the highest standards in everything we do, from client service to legal documentation.",
+            "icon": "award",
+            "examples": [
+                "Professional certifications",
+                "Continuous training",
+                "Quality control systems",
+                "Client feedback integration"
+            ]
+        },
+        {
+            "title": "Client-Centric",
+            "content": "Our clients' success is our success. We listen, understand, and deliver solutions tailored to their needs.",
+            "icon": "users",
+            "examples": [
+                "Personalized service",
+                "Regular updates",
+                "Flexible solutions",
+                "Post-service support"
+            ]
+        },
+        {
+            "title": "Innovation",
+            "content": "We embrace new technologies and methods to improve our services and client experience.",
+            "icon": "lightbulb",
+            "examples": [
+                "Digital property tours",
+                "Online documentation",
+                "Market analysis tools",
+                "Client portal"
+            ]
+        },
+        {
+            "title": "Community Focus",
+            "content": "We are committed to the development of Hargeisa and Somaliland through responsible business practices.",
+            "icon": "heart",
+            "examples": [
+                "Local employment",
+                "Community projects",
+                "Market development",
+                "Knowledge sharing"
+            ]
+        }
+    ],
+    "history": [{
+            "year": "2010",
+            "event": "Company Founding",
+            "description": "DhulBeeg was founded by Jim'ale Abdirahman Madar and Eng Mahdi Mohumed Odowa with a vision to integrate legal services into real estate transactions."
+        },
+        {
+            "year": "2012",
+            "event": "First Legal Department",
+            "description": "Established in-house legal team to provide complete property transaction services."
+        },
+        {
+            "year": "2015",
+            "event": "Market Leadership",
+            "description": "Became Hargeisa's leading integrated real estate and legal service provider."
+        },
+        {
+            "year": "2018",
+            "event": "Digital Transformation",
+            "description": "Implemented online property listings and digital documentation systems."
+        },
+        {
+            "year": "2020",
+            "event": "Expansion",
+            "description": "Expanded services to include property management and investment consulting."
+        },
+        {
+            "year": "2023",
+            "event": "Modernization",
+            "description": "Launched new website with property comparison tools and online consultations."
+        }
+    ],
+    "achievements": [{
+            "title": "750+ Happy Clients",
+            "icon": "users",
+            "description": "Served clients from Somaliland and diaspora communities worldwide"
+        },
+        {
+            "title": "350+ Properties Sold",
+            "icon": "home",
+            "description": "Successfully completed property transactions across all Hargeisa districts"
+        },
+        {
+            "title": "98% Success Rate",
+            "icon": "trophy",
+            "description": "High success rate in property transactions and legal cases"
+        },
+        {
+            "title": "14+ Years Experience",
+            "icon": "clock",
+            "description": "Over a decade of experience in Hargeisa real estate market"
+        },
+        {
+            "title": "500+ Legal Cases",
+            "icon": "balance-scale",
+            "description": "Successfully handled legal matters from documentation to dispute resolution"
+        },
+        {
+            "title": "Zero Major Disputes",
+            "icon": "shield-alt",
+            "description": "No major legal disputes in transactions handled by DhulBeeg"
+        }
+    ],
+    "community": {
+        "title": "Community Engagement",
+        "initiatives": [{
+                "name": "First-Time Buyer Program",
+                "description": "Special assistance and education for first-time property buyers in Somaliland"
+            },
+            {
+                "name": "Diaspora Investment Support",
+                "description": "Dedicated services for diaspora community investing in Somaliland"
+            },
+            {
+                "name": "Property Rights Education",
+                "description": "Free workshops on property rights and legal processes in Somaliland"
+            },
+            {
+                "name": "Market Development",
+                "description": "Contributing to the development of transparent property market in Hargeisa"
+            }
+        ]
+    }
+}

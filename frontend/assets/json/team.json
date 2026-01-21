@@ -1,0 +1,75 @@
+{
+    "leadership": [{
+            "id": "director-001",
+            "name": "Sarah Johnson",
+            "title": "Managing Partner",
+            "photo": "sarah-johnson.jpg",
+            "education": ["JD, Harvard Law School", "BA, Yale University"],
+            "experience": "18 years",
+            "specialties": ["Corporate Law", "Mergers & Acquisitions"],
+            "bar_admissions": ["New York", "California", "District of Columbia"],
+            "bio": "Sarah has led over 200 successful M&A transactions totaling more than $5 billion in value.",
+            "email": "s.johnson@lexprime.com",
+            "linkedin": "linkedin.com/in/sarahjohnson"
+        },
+        {
+            "id": "director-002",
+            "name": "Michael Chen",
+            "title": "Senior Partner",
+            "photo": "michael-chen.jpg",
+            "education": ["JD, Stanford Law School", "MBA, Wharton"],
+            "experience": "15 years",
+            "specialties": ["Real Estate Law", "Commercial Transactions"],
+            "bar_admissions": ["New York", "New Jersey", "Florida"],
+            "bio": "Michael specializes in high-value commercial real estate transactions and development projects.",
+            "email": "m.chen@lexprime.com",
+            "linkedin": "linkedin.com/in/michaelchen"
+        }
+    ],
+    "attorneys": [{
+            "id": "attorney-001",
+            "name": "Jennifer Lee",
+            "title": "Partner",
+            "specialties": ["Intellectual Property", "Technology Law"],
+            "experience": "12 years",
+            "education": ["JD, Columbia Law School", "BS Computer Science, MIT"]
+        },
+        {
+            "id": "attorney-002",
+            "name": "Robert Martinez",
+            "title": "Senior Associate",
+            "specialties": ["Litigation", "Dispute Resolution"],
+            "experience": "8 years",
+            "education": ["JD, University of Chicago Law School"]
+        },
+        {
+            "id": "attorney-003",
+            "name": "Amanda Williams",
+            "title": "Associate",
+            "specialties": ["Family Law", "Estate Planning"],
+            "experience": "5 years",
+            "education": ["JD, Georgetown Law"]
+        }
+    ],
+    "support_staff": [{
+            "id": "staff-001",
+            "name": "David Kim",
+            "title": "Paralegal Manager",
+            "department": "Legal Support",
+            "experience": "10 years"
+        },
+        {
+            "id": "staff-002",
+            "name": "Lisa Thompson",
+            "title": "Client Relations Director",
+            "department": "Client Services",
+            "experience": "7 years"
+        }
+    ],
+    "stats": {
+        "total_members": 42,
+        "attorneys": 25,
+        "partners": 8,
+        "average_experience": "9.5 years"
+    }
+}

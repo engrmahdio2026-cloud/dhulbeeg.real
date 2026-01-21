@@ -1,0 +1,55 @@
+{
+    "featured": [{
+            "id": "test-001",
+            "name": "James Wilson",
+            "company": "TechGrowth Inc.",
+            "position": "CEO",
+            "photo": "client1.jpg",
+            "rating": 5,
+            "text": "LexPrime handled our Series B funding round and subsequent acquisition flawlessly. Their attention to detail and strategic advice were invaluable in navigating complex negotiations.",
+            "date": "2023-11-15",
+            "case_type": "Corporate Merger",
+            "verified": true
+        },
+        {
+            "id": "test-002",
+            "name": "Maria Rodriguez",
+            "company": "Global Properties Group",
+            "position": "Managing Director",
+            "photo": "client2.jpg",
+            "rating": 5,
+            "text": "The real estate team at LexPrime saved us millions in a recent commercial property acquisition. Their expertise in zoning laws and negotiation tactics exceeded our expectations.",
+            "date": "2023-10-22",
+            "case_type": "Real Estate Acquisition",
+            "verified": true
+        },
+        {
+            "id": "test-003",
+            "name": "Thomas Baker",
+            "company": "Innovate Medical Devices",
+            "position": "Founder",
+            "photo": "client3.jpg",
+            "rating": 5,
+            "text": "When we faced patent infringement claims, LexPrime not only defended us successfully but also helped us strengthen our IP portfolio. Their IP attorneys are truly exceptional.",
+            "date": "2023-09-30",
+            "case_type": "Patent Defense",
+            "verified": true
+        },
+        {
+            "id": "test-004",
+            "name": "Sophia Chen",
+            "position": "Small Business Owner",
+            "rating": 5,
+            "text": "As a small business owner, I was intimidated by legal complexities. LexPrime's subscription plan made professional legal help accessible and affordable. Highly recommended!",
+            "date": "2023-11-05",
+            "case_type": "General Counsel",
+            "verified": true
+        }
+    ],
+    "stats": {
+        "total_testimonials": 287,
+        "average_rating": 4.9,
+        "response_rate": "98% positive",
+        "client_repeat_rate": "85%"
+    }
+}

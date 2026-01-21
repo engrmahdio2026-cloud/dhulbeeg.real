@@ -1,0 +1,37 @@
+DhulBeeg-Complete/
+├── index.html              (Main HTML - ~1200 lines)
+├── styles.css              (Complete CSS - ~1200 lines)
+├── script.js               (Enhanced JavaScript - ~1000 lines)
+├── assets/
+│   ├── json/
+│   │   ├── properties.json
+│   │   ├── legal-services.json
+│   │   ├── regions.json
+│   │   ├── testimonials.json
+│   │   ├── team.json
+│   │   ├── contact.json
+│   │   ├── videos.json
+│   │   └── config.json
+│   ├── images/
+│   └── logo.png
+└── README.md
+dhulbeeg-firm/
+├── backend/
+│   ├── config/
+│   │   └── database.js
+│   ├── routes/
+│   │   └── authRoutes.js
+│   ├── middleware/
+│   │   ├── auth.js
+│   │   └── errorHandler.js
+│   ├── controllers/
+│   │   └── authController.js
+│   ├── .env
+│   └── server.js
+└── frontend/
+    ├── index.html
+    ├── style.css
+    ├── app.js
+    ├── auth.js
+    └── utils/
+        └── api.js

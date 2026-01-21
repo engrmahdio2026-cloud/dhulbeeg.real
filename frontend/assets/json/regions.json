@@ -1,0 +1,39 @@
+{
+    "regions": [{
+            "id": "northeast",
+            "name": "Northeast",
+            "states": ["NY", "NJ", "CT", "MA", "PA"],
+            "offices": 3,
+            "specialties": ["Corporate Law", "Real Estate", "Financial Services"],
+            "description": "Our Northeast region handles complex corporate transactions and high-value real estate deals."
+        },
+        {
+            "id": "west-coast",
+            "name": "West Coast",
+            "states": ["CA", "OR", "WA"],
+            "offices": 2,
+            "specialties": ["Technology Law", "Entertainment", "Intellectual Property"],
+            "description": "Specializing in technology startups, entertainment law, and intellectual property matters."
+        },
+        {
+            "id": "midwest",
+            "name": "Midwest",
+            "states": ["IL", "OH", "MI", "IN", "WI"],
+            "offices": 2,
+            "specialties": ["Manufacturing", "Agriculture", "Transportation"],
+            "description": "Focused on industrial, manufacturing, and agricultural business sectors."
+        },
+        {
+            "id": "south",
+            "name": "Southern Region",
+            "states": ["TX", "FL", "GA", "NC"],
+            "offices": 2,
+            "specialties": ["Energy Law", "Real Estate Development", "International Trade"],
+            "description": "Expertise in energy sector, real estate development, and cross-border transactions."
+        }
+    ],
+    "international": {
+        "partners": ["London, UK", "Toronto, Canada", "Sydney, Australia"],
+        "languages": ["English", "Spanish", "French", "Mandarin"]
+    }
+}

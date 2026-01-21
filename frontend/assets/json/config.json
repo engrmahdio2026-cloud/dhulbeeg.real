@@ -1,0 +1,29 @@
+{
+    "site": {
+        "title": "LexPrime Legal Solutions",
+        "description": "Professional Legal Services & Consultation",
+        "keywords": "legal services, law firm, attorneys, legal consultation",
+        "author": "LexPrime Team",
+        "language": "en",
+        "theme": "light",
+        "version": "2.1.0"
+    },
+    "contact": {
+        "phone": "+1 (555) 123-4567",
+        "email": "contact@lexprime.com",
+        "address": "123 Legal Avenue, Suite 500, New York, NY 10001",
+        "working_hours": "Mon-Fri: 9:00 AM - 6:00 PM"
+    },
+    "social": {
+        "facebook": "https://facebook.com/lexprime",
+        "twitter": "https://twitter.com/lexprime",
+        "linkedin": "https://linkedin.com/company/lexprime",
+        "instagram": "https://instagram.com/lexprime"
+    },
+    "features": {
+        "dark_mode": true,
+        "multilingual": false,
+        "live_chat": true,
+        "appointment_system": true
+    }
+}

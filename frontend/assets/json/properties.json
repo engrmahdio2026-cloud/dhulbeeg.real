@@ -1,0 +1,52 @@
+{
+    "featured_properties": [{
+            "id": "prop-001",
+            "title": "Luxury Downtown Penthouse",
+            "type": "Residential",
+            "location": "Manhattan, NY",
+            "price": "$4,500,000",
+            "size": "3,500 sq ft",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "status": "Available",
+            "description": "Stunning penthouse with panoramic city views, private terrace, and premium finishes.",
+            "amenities": ["Pool", "Gym", "Concierge", "Parking", "Smart Home"],
+            "images": ["property1.jpg", "property2.jpg", "property3.jpg"],
+            "legal_status": "Clear Title",
+            "year_built": 2020
+        },
+        {
+            "id": "prop-002",
+            "title": "Commercial Office Building",
+            "type": "Commercial",
+            "location": "Financial District, NY",
+            "price": "$12,000,000",
+            "size": "25,000 sq ft",
+            "floors": 8,
+            "status": "Under Contract",
+            "description": "Prime commercial building with excellent visibility and access to transportation.",
+            "amenities": ["Elevator", "Security", "Parking Garage", "Fiber Optic"],
+            "images": ["property4.jpg", "property5.jpg"],
+            "legal_status": "Due Diligence Phase",
+            "year_built": 1995
+        },
+        {
+            "id": "prop-003",
+            "title": "Waterfront Estate",
+            "type": "Residential",
+            "location": "The Hamptons, NY",
+            "price": "$8,750,000",
+            "size": "6,800 sq ft",
+            "bedrooms": 6,
+            "bathrooms": 5,
+            "status": "Available",
+            "description": "Magnificent waterfront estate with private beach access and extensive grounds.",
+            "amenities": ["Private Beach", "Boat Dock", "Tennis Court", "Wine Cellar", "Guest House"],
+            "images": ["property6.jpg", "property7.jpg", "property8.jpg"],
+            "legal_status": "Clear Title",
+            "year_built": 2015
+        }
+    ],
+    "property_types": ["Residential", "Commercial", "Industrial", "Land", "Investment"],
+    "services": ["Title Search", "Due Diligence", "Contract Review", "Closing Services", "Zoning Analysis"]
+}

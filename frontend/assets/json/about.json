@@ -1,0 +1,22 @@
+{
+    "company": {
+        "name": "LexPrime Legal Solutions",
+        "founded": "2010",
+        "mission": "To provide exceptional legal services with integrity, innovation, and client-focused solutions.",
+        "vision": "To be the leading legal firm recognized for excellence and transformative impact.",
+        "values": [
+            "Integrity & Ethics",
+            "Client-Centric Approach",
+            "Innovation in Legal Solutions",
+            "Professional Excellence",
+            "Community Engagement"
+        ]
+    },
+    "statistics": {
+        "cases_handled": "1500+",
+        "success_rate": "95%",
+        "client_satisfaction": "98%",
+        "team_members": "50+"
+    },
+    "story": "Founded in 2010, LexPrime started as a small practice with big aspirations. Today, we're a full-service legal firm specializing in corporate law, real estate, intellectual property, and litigation. Our growth is built on trust, results, and unwavering commitment to our clients' success."
+}

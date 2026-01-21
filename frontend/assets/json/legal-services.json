@@ -1,0 +1,78 @@
+{
+    "categories": [{
+            "id": "corporate",
+            "title": "Corporate Law",
+            "icon": "business",
+            "description": "Comprehensive legal services for businesses of all sizes",
+            "services": [
+                "Business Formation & Structuring",
+                "Contract Drafting & Review",
+                "Mergers & Acquisitions",
+                "Corporate Governance",
+                "Compliance & Regulatory Matters"
+            ],
+            "featured": true
+        },
+        {
+            "id": "real-estate",
+            "title": "Real Estate Law",
+            "icon": "home",
+            "description": "Property transactions, disputes, and real estate development",
+            "services": [
+                "Property Transactions",
+                "Lease Agreements",
+                "Title Examination",
+                "Zoning & Land Use",
+                "Real Estate Litigation"
+            ],
+            "featured": true
+        },
+        {
+            "id": "intellectual-property",
+            "title": "Intellectual Property",
+            "icon": "copyright",
+            "description": "Protecting your innovations and creative works",
+            "services": [
+                "Patent Filing & Protection",
+                "Trademark Registration",
+                "Copyright Matters",
+                "IP Licensing",
+                "Infringement Litigation"
+            ],
+            "featured": false
+        },
+        {
+            "id": "litigation",
+            "title": "Litigation",
+            "icon": "gavel",
+            "description": "Aggressive representation in civil and commercial disputes",
+            "services": [
+                "Civil Litigation",
+                "Commercial Disputes",
+                "Arbitration & Mediation",
+                "Appellate Practice",
+                "Class Action Lawsuits"
+            ],
+            "featured": true
+        },
+        {
+            "id": "family-law",
+            "title": "Family Law",
+            "icon": "family_restroom",
+            "description": "Sensitive handling of family-related legal matters",
+            "services": [
+                "Divorce & Separation",
+                "Child Custody",
+                "Adoption",
+                "Prenuptial Agreements",
+                "Family Mediation"
+            ],
+            "featured": false
+        }
+    ],
+    "consultation": {
+        "free_initial": true,
+        "duration": "30 minutes",
+        "booking_methods": ["online", "phone", "in-person"]
+    }
+}

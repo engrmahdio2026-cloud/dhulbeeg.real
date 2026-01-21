@@ -1,0 +1,165 @@
+// properties.json
+[{
+        "id": 1,
+        "title": "Luxury Villa in Siinay",
+        "description": "Modern 5-bedroom luxury villa with panoramic views of Hargeisa, featuring premium finishes and smart home technology.",
+        "price": 350000,
+        "area": 1200,
+        "type": "luxury",
+        "status": "available",
+        "district": "Siinay",
+        "village": "Siinay Central",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking": 3,
+        "yearBuilt": 2022,
+        "features": ["Swimming Pool", "Garden", "Security System", "Smart Home", "Backup Generator"],
+        "geosoil": {
+            "type": "rocky",
+            "quality": "excellent",
+            "drainage": "good",
+            "stability": "high",
+            "recommendations": "Suitable for multi-story construction"
+        },
+        "infrastructure": {
+            "waterSystem": {
+                "municipal": true,
+                "borehole": true,
+                "storage": "5000L tank",
+                "pressure": "good",
+                "quality": "potable"
+            },
+            "electricity": {
+                "grid": true,
+                "solar": true,
+                "generator": true,
+                "capacity": "10KVA"
+            },
+            "internet": {
+                "fiber": true,
+                "mobile": true,
+                "providers": ["Somtel", "Telesom"]
+            },
+            "sewage": {
+                "septicTank": true,
+                "capacity": "3000L",
+                "maintenance": "annual"
+            }
+        },
+        "location": {
+            "coordinates": { "lat": 9.561, "lng": 44.065 },
+            "distanceToTown": 3,
+            "roadType": "paved",
+            "roadCondition": "excellent",
+            "transport": {
+                "bus": true,
+                "taxi": true,
+                "distanceToBusStop": 0.5,
+                "busLines": ["Siinay-Downtown"],
+                "taxiAvailability": "24/7"
+            },
+            "amenities": {
+                "schools": [
+                    "Hargeisa International School - 2km",
+                    "Siinay Primary School - 1km"
+                ],
+                "hospitals": [
+                    "Hargeisa Group Hospital - 4km",
+                    "Private Clinic - 1.5km"
+                ],
+                "markets": [
+                    "Siinay Market - 1km",
+                    "Supermarket - 2km"
+                ],
+                "mosques": [
+                    "Siinay Central Mosque - 0.8km"
+                ],
+                "sports": [
+                    "Gym - 2km",
+                    "Football Field - 1.5km",
+                    "Children Playground - 1km"
+                ]
+            }
+        },
+        "safety": {
+            "fireSystem": true,
+            "securityGuard": true,
+            "cctv": true,
+            "alarmSystem": true,
+            "policeStationDistance": 2.5,
+            "emergencyResponse": "10 minutes"
+        },
+        "images": [
+            "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        ],
+        "documents": ["Title Deed", "Survey Plan", "Building Permit"],
+        "createdAt": "2024-01-15",
+        "updatedAt": "2024-01-20"
+    },
+    {
+        "id": 2,
+        "title": "Commercial Plot in Downtown",
+        "description": "Prime commercial plot in the heart of Hargeisa, ideal for business development.",
+        "price": 200000,
+        "area": 800,
+        "type": "commercial",
+        "status": "available",
+        "district": "Downtown",
+        "village": "Central Business District",
+        "bedrooms": null,
+        "bathrooms": null,
+        "parking": 10,
+        "yearBuilt": null,
+        "features": ["Prime Location", "High Visibility", "Commercial Zoning"],
+        "geosoil": {
+            "type": "mixed",
+            "quality": "good",
+            "drainage": "excellent"
+        },
+        "infrastructure": {
+            "waterSystem": {
+                "municipal": true,
+                "borehole": false,
+                "storage": "Not applicable"
+            },
+            "electricity": {
+                "grid": true,
+                "solar": false,
+                "generator": false
+            },
+            "internet": {
+                "fiber": true,
+                "mobile": true
+            }
+        },
+        "location": {
+            "coordinates": { "lat": 9.558, "lng": 44.063 },
+            "distanceToTown": 0,
+            "roadType": "paved",
+            "transport": {
+                "bus": true,
+                "taxi": true,
+                "distanceToBusStop": 0.1
+            },
+            "amenities": {
+                "schools": ["Downtown Schools - 1km"],
+                "hospitals": ["Central Hospital - 2km"],
+                "markets": ["Central Market - 0.5km"],
+                "mosques": ["Central Mosque - 0.3km"]
+            }
+        },
+        "safety": {
+            "fireSystem": false,
+            "securityGuard": false,
+            "cctv": false,
+            "policeStationDistance": 0.5
+        },
+        "images": [
+            "https://images.unsplash.com/photo-1487956382158-bb926046304a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+        ],
+        "documents": ["Title Deed", "Commercial Permit"],
+        "createdAt": "2024-01-10"
+    }
+]

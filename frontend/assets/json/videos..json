@@ -1,0 +1,82 @@
+{
+    "featured_videos": [{
+            "id": "video-001",
+            "title": "Understanding Business Contracts",
+            "description": "Essential elements every business contract should include",
+            "thumbnail": "contract-video-thumb.jpg",
+            "url": "https://youtube.com/watch?v=abc123",
+            "duration": "8:45",
+            "category": "Educational",
+            "speaker": "Sarah Johnson",
+            "views": "15,234",
+            "date": "2023-10-10"
+        },
+        {
+            "id": "video-002",
+            "title": "Real Estate Due Diligence Process",
+            "description": "Step-by-step guide to property due diligence",
+            "thumbnail": "realestate-video-thumb.jpg",
+            "url": "https://youtube.com/watch?v=def456",
+            "duration": "12:30",
+            "category": "Educational",
+            "speaker": "Michael Chen",
+            "views": "22,567",
+            "date": "2023-09-15"
+        },
+        {
+            "id": "video-003",
+            "title": "Client Success Story: Tech Startup Acquisition",
+            "description": "How we helped a startup navigate a successful acquisition",
+            "thumbnail": "success-story-thumb.jpg",
+            "url": "https://youtube.com/watch?v=ghi789",
+            "duration": "6:15",
+            "category": "Case Study",
+            "speaker": "Client Interview",
+            "views": "18,902",
+            "date": "2023-11-05"
+        },
+        {
+            "id": "video-004",
+            "title": "Protecting Your Intellectual Property",
+            "description": "Strategies for safeguarding your innovations",
+            "thumbnail": "ip-video-thumb.jpg",
+            "url": "https://youtube.com/watch?v=jkl012",
+            "duration": "10:20",
+            "category": "Educational",
+            "speaker": "Jennifer Lee",
+            "views": "14,321",
+            "date": "2023-08-22"
+        }
+    ],
+    "playlists": [{
+            "id": "playlist-001",
+            "title": "Legal Basics for Entrepreneurs",
+            "description": "Essential legal knowledge for starting and growing a business",
+            "videos_count": 6,
+            "total_duration": "45 minutes"
+        },
+        {
+            "id": "playlist-002",
+            "title": "Real Estate Law Explained",
+            "description": "Understanding property transactions and legal requirements",
+            "videos_count": 5,
+            "total_duration": "38 minutes"
+        },
+        {
+            "id": "playlist-003",
+            "title": "Client Success Stories",
+            "description": "Real cases and how we achieved successful outcomes",
+            "videos_count": 4,
+            "total_duration": "32 minutes"
+        }
+    ],
+    "webinars": [{
+        "id": "webinar-001",
+        "title": "Legal Trends 2024",
+        "date": "2024-01-25",
+        "time": "2:00 PM EST",
+        "speakers": ["Sarah Johnson", "Michael Chen", "Jennifer Lee"],
+        "description": "Join our experts as they discuss emerging legal trends and strategies",
+        "registration_link": "https://lexprime.com/webinar/legal-trends-2024"
+    }]
+}

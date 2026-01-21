@@ -1,0 +1,80 @@
+{
+    "main_services": [{
+            "id": "corporate-services",
+            "title": "Corporate & Business Law",
+            "description": "Comprehensive legal solutions for businesses, from startups to multinational corporations.",
+            "features": [
+                "Business Formation & Structure",
+                "Contract Drafting & Negotiation",
+                "Mergers & Acquisitions",
+                "Corporate Governance",
+                "Compliance & Risk Management"
+            ],
+            "icon": "corporate_fare",
+            "consultation_fee": "$300/hour",
+            "package_available": true
+        },
+        {
+            "id": "real-estate-services",
+            "title": "Real Estate Transactions",
+            "description": "Full-service real estate legal support for residential and commercial properties.",
+            "features": [
+                "Property Purchase & Sale",
+                "Lease Agreements",
+                "Title Examination",
+                "Zoning & Land Use",
+                "Real Estate Financing"
+            ],
+            "icon": "house",
+            "consultation_fee": "$250/hour",
+            "package_available": true
+        },
+        {
+            "id": "litigation-services",
+            "title": "Litigation & Dispute Resolution",
+            "description": "Aggressive representation in courtrooms and alternative dispute resolution forums.",
+            "features": [
+                "Civil Litigation",
+                "Commercial Disputes",
+                "Arbitration",
+                "Mediation",
+                "Appellate Practice"
+            ],
+            "icon": "gavel",
+            "consultation_fee": "$350/hour",
+            "package_available": false
+        },
+        {
+            "id": "ip-services",
+            "title": "Intellectual Property",
+            "description": "Protection and enforcement of intellectual property rights.",
+            "features": [
+                "Patent Prosecution",
+                "Trademark Registration",
+                "Copyright Protection",
+                "IP Licensing",
+                "Infringement Litigation"
+            ],
+            "icon": "copyright",
+            "consultation_fee": "$400/hour",
+            "package_available": true
+        }
+    ],
+    "additional_services": [
+        "Employment Law",
+        "Tax Law Consultation",
+        "Estate Planning",
+        "Immigration Law",
+        "Environmental Law"
+    ],
+    "process": {
+        "steps": [
+            "Initial Consultation",
+            "Case Evaluation",
+            "Strategy Development",
+            "Implementation",
+            "Resolution & Follow-up"
+        ],
+        "guarantee": "Free initial 30-minute consultation"
+    }
+}

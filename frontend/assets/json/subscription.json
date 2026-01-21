@@ -1,0 +1,68 @@
+{
+    "plans": [{
+            "id": "basic",
+            "name": "Basic Legal Support",
+            "price": "$299/month",
+            "description": "Essential legal services for small businesses and individuals",
+            "features": [
+                "4 Hours of Legal Consultation",
+                "Contract Review (up to 10 pages)",
+                "Email Support (48-hour response)",
+                "Basic Document Preparation",
+                "Monthly Legal Updates"
+            ],
+            "limitations": [
+                "No Court Representation",
+                "Maximum 2 ongoing matters",
+                "Excludes litigation services"
+            ],
+            "popular": false,
+            "recommended_for": ["Small Businesses", "Startups", "Individuals"]
+        },
+        {
+            "id": "professional",
+            "name": "Professional Plan",
+            "price": "$699/month",
+            "description": "Comprehensive legal support for growing businesses",
+            "features": [
+                "10 Hours of Legal Consultation",
+                "Unlimited Document Review",
+                "Priority Email Support (24-hour response)",
+                "Contract Drafting",
+                "Legal Research Services",
+                "Quarterly Compliance Check"
+            ],
+            "limitations": [
+                "Court representation billed separately",
+                "Maximum 5 ongoing matters"
+            ],
+            "popular": true,
+            "recommended_for": ["Growing Companies", "Medium Businesses", "Real Estate Investors"]
+        },
+        {
+            "id": "enterprise",
+            "name": "Enterprise Plan",
+            "price": "$1,499/month",
+            "description": "Full-service legal department support",
+            "features": [
+                "Unlimited Consultation Hours",
+                "Dedicated Attorney",
+                "24/7 Emergency Support",
+                "Full Litigation Coverage",
+                "M&A Support",
+                "Monthly Strategy Sessions",
+                "Custom Legal Training",
+                "Annual Compliance Audit"
+            ],
+            "limitations": [],
+            "popular": false,
+            "recommended_for": ["Large Corporations", "Investment Firms", "Multinational Companies"]
+        }
+    ],
+    "billing": {
+        "payment_methods": ["Credit Card", "Bank Transfer", "ACH"],
+        "cancel_anytime": true,
+        "prorated_refunds": true,
+        "annual_discount": "15%"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "highlighted_cases": [{
+            "id": "case-2023-001",
+            "title": "Tech Merger Success",
+            "client": "Tech Innovations Inc.",
+            "category": "Corporate Law",
+            "year": "2023",
+            "challenge": "Facilitated a $50M merger between two tech companies with complex IP portfolios",
+            "solution": "Structured merger agreement with comprehensive IP protection clauses",
+            "result": "Successful merger completed in 4 months, exceeding client expectations",
+            "outcome": "$50M deal completed with full IP protection",
+            "testimonial_excerpt": "LexPrime navigated complex negotiations with expertise and precision."
+        },
+        {
+            "id": "case-2023-002",
+            "title": "Commercial Real Estate Acquisition",
+            "client": "Global Properties LLC",
+            "category": "Real Estate Law",
+            "year": "2023",
+            "challenge": "Acquisition of a $25M commercial property with zoning restrictions",
+            "solution": "Resolved zoning issues and negotiated favorable purchase terms",
+            "result": "Property acquired at 15% below asking price with all zoning approvals",
+            "outcome": "$3.75M in savings for the client",
+            "testimonial_excerpt": "Exceptional negotiation skills saved us millions."
+        },
+        {
+            "id": "case-2022-001",
+            "title": "Patent Infringement Defense",
+            "client": "MedTech Solutions",
+            "category": "Intellectual Property",
+            "year": "2022",
+            "challenge": "Defended against $10M patent infringement claim",
+            "solution": "Successfully invalidated competitor's patent claims",
+            "result": "Case dismissed with prejudice, client's product line protected",
+            "outcome": "Zero liability for client, competitor's patent invalidated",
+            "testimonial_excerpt": "Saved our company from devastating litigation costs."
+        }
+    ],
+    "statistics": {
+        "total_cases": "1500+",
+        "success_rate": "95%",
+        "client_retention": "92%",
+        "years_experience": "13"
+    }
+}
