@@ -1,11 +1,27 @@
 services:
+  # Backend API (Node.js Web Service)
   - type: web
-    name: dhulbeeg-firm
+    name: dhulbeeg-backend
     env: node
-    buildCommand: cd backend && npm install
-    startCommand: cd backend && node server.js
+    region: oregon
+    rootDirectory: backend
+    buildCommand: npm install
+    startCommand: node server.js
     envVars:
       - key: NODE_ENV
         value: production
       - key: PORT
         value: 10000
+      # Add more variables in Render dashboard later
+
+  # Frontend (Static Site)
+  - type: static
+    name: dhulbeeg-frontend
+    rootDirectory: frontend
+    buildCommand: |
+      # Optional: If you need to process anything
+      echo "Building static site..."
+    publishPath: .
+    envVars:
+      - key: API_URL
+        value: https://dhulbeeg-backend.onrender.com
