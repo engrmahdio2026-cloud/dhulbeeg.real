@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DHULBEEG REAL ESTATE & LEGAL FIRM - ENHANCEMENTS SUMMARY
 
 ## ✅ COMPLETED ENHANCEMENTS:
@@ -132,3 +133,7 @@ dhulbeeg-project/
 - Real Estate: (+252)-63 4428674
 - Legal: (+252)-67 4428674
 - Email: dhulbeeg.realestate@gmail.com
+=======
+# dhulbeeg.real
+Dhulbeeg is real state &amp; Legal Firm that serves as a provider of the renting, selling and buyinng packages through the society 
+>>>>>>> bfc23e5648c52fa6588c04a80f0f91c5a0cf72b7
