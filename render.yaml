@@ -12,15 +12,13 @@ services:
         value: production
       - key: PORT
         value: 10000
-      # Add more variables in Render dashboard later
 
-  # Frontend (Static Site)
-  - type: static
+  # Frontend (Static Site) - CORRECT TYPE IS "static_site"
+  - type: static_site
     name: dhulbeeg-frontend
     rootDirectory: frontend
-    buildCommand: |
-      # Optional: If you need to process anything
-      echo "Building static site..."
+    buildCommand: | 
+      echo "No build needed for static HTML/CSS/JS"
     publishPath: .
     envVars:
       - key: API_URL
